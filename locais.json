@@ -1,0 +1,42 @@
+[
+    {
+      "nome": "Fuctura",
+      "descricao": "A Fuctura oferece diversos cursos de programação para iniciantes, formando do zero. Alguns dos cursos disponíveis incluem Angular, Java FullStack, Python, Ruby, Node.JS, JavaScript, PHP, Preparatório LPI e Linux.",
+      "bairro": " Espinheiro",
+      "logradouro": "R. Nicarágua, 159 ",
+      "latitude": -8.048432347852232, 
+      "longitude": -34.89514229088181,
+      "telefone": "(81)32238348",
+      "site": "http://www.fucturatecnologia.com.br/"
+    },
+    {
+      "nome": "Universidade Federal de Pernambuco (UFPE)",
+      "descricao": "A UFPE é uma das principais instituições de ensino do país e oferece cursos de graduação e pós-graduação na área de tecnologia.",
+      "bairro": "Cidade Universitária",
+      "logradouro": "Av. Prof. Moraes Rego, 1235 ",
+      "latitude": -8.05053327614337, 
+      "longitude": -34.950870475829944,
+      "telefone": "(81)21268000",
+      "site": "https://www.ufpe.br/"
+    },
+    {
+      "nome": "Instituto Federal de Pernambuco (IFPE)",
+      "descricao": "O IFPE também é uma referência quando o assunto é ensino técnico na área de programação.",
+      "bairro": "Cidade Universitária",
+      "logradouro": "Av. Prof. Luiz Freire, 500",
+      "latitude": -8.059341071762432, 
+      "longitude": -34.9505272028124,
+      "telefone": "(81)21251600",
+      "site": "http://www.ifpe.edu.br/"
+    },
+    {
+      "nome": "Com.Domínio Digital",
+      "descricao": "Formando jovens para o futuro 4.0, @institutoalianca impactando o mercado Back-end em Tecnologia!",
+      "bairro": "Recife",
+      "logradouro": "Cais do Apolo, 222 ",
+      "latitude": -8.063174377222603, 
+      "longitude":  -34.87438106233828,
+      "telefone": "(81)989555690",
+      "site": "https://www.instagram.com/cdd4.0/"
+    }
+  ]
